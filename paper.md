@@ -6,6 +6,7 @@ Aircraft measurements and simulations of biomass burning aerols over West Africa
 #Author
 John Smith, University of Leeds
 Seung Hyun Lee, University of Manchester
+Qian Zhao, University of Manchester
 
 #Introduction
 We present aircraft measurements of BBOA over West Africa.
